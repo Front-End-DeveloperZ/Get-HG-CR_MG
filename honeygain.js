@@ -38,8 +38,8 @@ let limit = {
       minute: "00",
     },
     night: {
-      hour: "19",
-      minute: "24",
+      hour: "21",
+      minute: "30",
     },
   },
 };
